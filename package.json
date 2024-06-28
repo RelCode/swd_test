@@ -1,0 +1,30 @@
+{
+  "name": "swd_test",
+  "version": "0.0.1",
+  "description": "Program Prints Out Numbers From 1 to 100 & For Each Multiple of 3, 5 or both 3 & 5 Specified Values will be Outputted Otherwise The Number Itself Will Show on Screen",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RelCode/swd_test.git"
+  },
+  "keywords": [
+    "Navertica",
+    "Printout",
+    "Numbers",
+    "SWD",
+    "Test",
+    "Iterate",
+    "1",
+    "to",
+    "100"
+  ],
+  "author": "Fana",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RelCode/swd_test/issues"
+  },
+  "homepage": "https://github.com/RelCode/swd_test#readme"
+}
